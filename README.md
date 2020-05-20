@@ -4,5 +4,6 @@
 
 `sudo docker build -t labhaner/our-first-dockerized-app .`
 
-### Author
-Rohit Labhane
+### Authors
+* Rohit Labhane
+* Gaurav Labhane
